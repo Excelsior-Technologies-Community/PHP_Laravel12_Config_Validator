@@ -331,11 +331,3 @@ PHP_Laravel12_Config_Validator/
 ---
 
 Your PHP_Laravel12_Config_Validator Project is now ready!
-
-
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> development
